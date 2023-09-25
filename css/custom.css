@@ -1,0 +1,56 @@
+/* Your custom css code goes here */
+
+.probootstrap-logo #mufty {
+  float: left;
+  color: #ffffff;
+  padding: 10px 0px;
+  display: inline;
+  border-radius: 25px;
+  margin-bottom: -63px;
+}
+
+.probootstrap-main-nav {
+  margin-left: 20px;
+}
+
+.slides-text #one {
+  width: 750px;
+  font-weight: 500;
+  font-size: 40px;
+  color: #ffffff;
+  }
+
+  .slides-text #two {
+    width: 700px;
+    font-weight: 100;
+    font-size: 17px;
+    color: #ffffff;
+  }
+
+  .slides-text #three {
+    width: 150px;
+    font-weight: 100;
+    font-size: 17px;
+    color: #ffffff;
+    background-color: #22eaaa;
+    border-radius: 25px;
+  }
+
+  
+ #qqq {
+  text-align: center;
+  
+}
+  
+.probootstrap-social li {
+  display: block;
+  padding-right: 25px;
+}
+
+.probootstrap-social li a i {
+  padding-right: 10px;
+}
+
+.probootstrap-social li:first-child > a {
+  padding-left: 10px;
+}
